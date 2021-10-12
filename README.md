@@ -1,9 +1,12 @@
 # RDC
 #Convert a pdf to txt, search and format shell script comands to a new script.
 
-install vim and poppler-utils before run
+Install vim and poppler-utils before run
+
 apt-get install poppler-utils
+
 apt-get install vim
+
 Tutorial: 
 
 >Give execute permisson to the arquive (chmod +x RDC.sh).
@@ -16,13 +19,16 @@ Warning:
 The script only will get the command lines that has 'root@debian' in your content. 
 Be sure the command will not open a terminal interface as it may crash the script.
 If you are on VM, clone it before run comandos.txt
-=========================================================================================
+
 
 #Converte um pdf em txt, pesquisa e formata comandos em shell script para um novo script.
 
-instale vim e poppler-utils antes de rodar.
+Instale vim e poppler-utils antes de rodar.
+
 apt-get install poppler-utils
+
 apt-get install vim
+
 
 Tutorial:
 
