@@ -5,7 +5,9 @@
 Tutorial: 
 
 >Give execute permisson to the arquive (chmod +x RDC.sh).
+
 >Execute (./RDC.sh) and enter the pdf's name with extension .pdf (ex: teste.pdf).
+
 >It's gonna create an arquive called 'comandos.txt', check if it's formatted correctly and is ready to run.
 
 Warning: 
@@ -19,7 +21,9 @@ If u are on VM, clone it before run comandos.txt
 Tutorial:
 
 >De permição para o arquivo ser executado (chmod +x RDC.sh).
+
 >Execute (./RDC.sh) e digite o nome do pdf com a extenção .pdf (ex: teste.pdf).
+
 >Ele irá criar um arquivo chamado 'comandos.txt' verifique se o mesmo formatou corretamente e já está pronto para executar.
 
 Avisos:
